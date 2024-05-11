@@ -1,0 +1,5 @@
+name: Boyfriend [Basic] (Friday Night Funkin')
+singer_type: utau
+author: Fyonix
+voice: Boyfriend
+version: 0.6
