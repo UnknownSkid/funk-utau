@@ -2,4 +2,4 @@ name: Boyfriend [Beeping] (Friday Night Funkin')
 singer_type: utau
 author: Fyonix
 voice: Boyfriend
-version: 0.6
+version: 0.9
