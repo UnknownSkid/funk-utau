@@ -1,0 +1,5 @@
+name: Skid [South] (Friday Night Funkin')
+singer_type: utau
+author: Fyonix
+voice: Skid
+version: 0.6
