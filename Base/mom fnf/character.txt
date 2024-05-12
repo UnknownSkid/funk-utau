@@ -1,0 +1,5 @@
+name: Mommy Mearest (Friday Night Funkin')
+singer_type: utau
+author: Fyonix
+voice: Mommy Mearest
+version: 0.6
