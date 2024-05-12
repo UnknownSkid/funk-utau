@@ -1,0 +1,5 @@
+name: Senpai (Friday Night Funkin')
+singer_type: utau
+author: Fyonix
+voice: Senpai
+version: 0.6

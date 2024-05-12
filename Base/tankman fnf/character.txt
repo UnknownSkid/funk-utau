@@ -1,0 +1,5 @@
+name: Tankman (Friday Night Funkin')
+singer_type: utau
+author: Fyonix
+voice: Tankman
+version: 0.1
