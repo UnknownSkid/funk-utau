@@ -1,0 +1,5 @@
+name: Boyfriend [Soft] (Friday Night Funkin' VS Whitty)
+singer_type: utau
+author: Fyonix
+voice: Boyfriend
+version: 0.3
